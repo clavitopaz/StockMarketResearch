@@ -2,6 +2,7 @@
 Researching stock market trends
 
 # Word Cloud for FOMC Q&A Event
+Is there a way to track "new" words mentioned in the most recent meeting compared to others? Like the words "deflation", "transitory", "tools", etc.
 
 # Segmenting tickers in the stock market
 Will use clustering to segment stocks by industries. 
